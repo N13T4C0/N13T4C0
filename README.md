@@ -1,9 +1,9 @@
-<h2 align="center">👋 ¡Hola, soy José Antonio Nieto!</h2>
+<h2 align="center">👋 Hola soy  Nieto!</h2>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Jos%C3%A9+Antonio+Nieto;T%C3%A9cnico+Inform%C3%A1tico;Desarrollador+Web+Junior" alt="Typing SVG" />
 </p>
 <p align="center">
-  <em>🧑‍💻 Técnico informático | Desarrollador Web Junior | ¡Aprendiendo a construir el futuro, línea a línea!</em>
+  <em>🧑‍💻 Técnico informático | Desarrollador Web Junior</em>
 </p>
 
 <p align="center">
@@ -21,8 +21,6 @@
   🔹 **Ayuntamiento de Íllora** (2025): Colaboración en desarrollo web (frontend + backend) y diseño de interfaces.
 - Apasionado por la tecnología, el aprendizaje continuo y resolver problemas reales con código.
 - 🌍 **Idiomas**: Español (nativo) | Inglés (intermedio)
-
-> 💡 *"No solo arreglo PCs... ¡también armo experiencias web!"*
 
 ---
 
@@ -80,6 +78,5 @@
 ---
 
 
-> Estoy en ese emocionante punto donde el **soporte técnico se encuentra con el desarrollo web**, y cada día aprendo algo nuevo para convertirme en un desarrollador versátil y confiable.
 
 ✨ **Gracias por visitar mi perfil. ¡Cualquier estrella ⭐ o sugerencia es bienvenida!*
