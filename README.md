@@ -1,5 +1,7 @@
 <h2 align="center">👋 ¡Hola, soy José Antonio Nieto!</h2>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Jos%C3%A9+Antonio+Nieto;T%C3%A9cnico+Inform%C3%A1tico;Desarrollador+Web+Junior" alt="Typing SVG" />
+</p>
 <p align="center">
   <em>🧑‍💻 Técnico informático | Desarrollador Web Junior | ¡Aprendiendo a construir el futuro, línea a línea!</em>
 </p>
