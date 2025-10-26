@@ -68,10 +68,10 @@
 ### 🎵 Now Playing
 
 <p align="center">
-  <img src="https://github-readme-music.vercel.app/api?user=oxnet&layout=compact&theme=radical" />
+    <img src="https://lastfm-readme.vercel.app/api?user=oxnet&theme=transparent" />
 </p>
 
-> 🖤 *Escuchando a Lil Peep, Deftones o lo que el caos emocional decida… en tiempo real.*
+> 🖤 *Escuchando a Lil Peep, Deftones o lo q*
 
 ### 📬 ¿Quieres contactarme?
 
