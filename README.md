@@ -65,6 +65,13 @@
 </p>
 
 ---
+### 🎵 Now Playing
+
+<p align="center">
+  <img src="https://github-readme-music.vercel.app/api?user=oxnet&layout=compact&theme=radical" />
+</p>
+
+> 🖤 *Escuchando a Lil Peep, Deftones o lo que el caos emocional decida… en tiempo real.*
 
 ### 📬 ¿Quieres contactarme?
 
