@@ -1,4 +1,4 @@
-<h2 align="center">👋 ¡Hola, soy José Antonio Nieto! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h2>
+<h2 align="center">👋 ¡Hola, soy José Antonio Nieto!</h2>
 
 <p align="center">
   <em>🧑‍💻 Técnico informático | Desarrollador Web Junior | ¡Aprendiendo a construir el futuro, línea a línea!</em>
