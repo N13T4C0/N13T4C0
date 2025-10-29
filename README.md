@@ -64,14 +64,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N13T4C0&layout=compact&theme=radical" />
 </p>
 
----
-### 🎵 Now Playing
-
-<p align="center">
-    <img src="https://lastfm-readme.vercel.app/api?user=oxnet&theme=transparent" />
-</p>
-
-> 🖤 *Escuchando a Lil Peep, Deftones o lo q*
+--- 
 
 ### 📬 ¿Quieres contactarme?
 
