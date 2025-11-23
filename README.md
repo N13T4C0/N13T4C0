@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Jos%C3%A9+Antonio+Nieto;T%C3%A9cnico+Inform%C3%A1tico;Desarrollador+Web+Junior" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://tenor.com/bVBk0t0TJKN.gif" width="100%" alt="Fondo animado" />
+  <img src="https://media1.tenor.com/m/FI9CZRTgweMAAAAC/lain-lain-iwakura.gif" width="100%" alt="Fondo animado" />
 </p>
 
 <p align="center">
