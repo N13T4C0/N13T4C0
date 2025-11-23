@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Banner animado -->
-  <img src="https://media1.tenor.com/m/FI9CZRTgweMAAAAC/lain-lain-iwakura.gif" width="100%" alt="Banner animado" />
+  <img src="https://media1.tenor.com/m/FI9CZRTgweMAAAAC/lain-lain-iwakura.gif" width="800" height="150" alt="Banner animado" />
 </p>
 
 <h2 align="center">👋 Hola soy Nieto!</h2>
