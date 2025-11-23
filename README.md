@@ -1,9 +1,12 @@
-<h2 align="center">👋 Hola soy  Nieto!</h2>
+<p align="center">
+  <!-- Banner animado -->
+  <img src="https://media1.tenor.com/m/FI9CZRTgweMAAAAC/lain-lain-iwakura.gif" width="100%" alt="Banner animado" />
+</p>
+
+<h2 align="center">👋 Hola soy Nieto!</h2>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Jos%C3%A9+Antonio+Nieto;T%C3%A9cnico+Inform%C3%A1tico;Desarrollador+Web+Junior" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://media1.tenor.com/m/FI9CZRTgweMAAAAC/lain-lain-iwakura.gif" width="100%" alt="Fondo animado" />
 </p>
 
 <p align="center">
@@ -68,7 +71,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N13T4C0&layout=compact&theme=radical" />
 </p>
 
---- 
+---
 
 ### 📬 ¿Quieres contactarme?
 
@@ -76,11 +79,8 @@
   <a href="mailto:josenieto.alo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-
 </p>
 
 ---
 
-
-
-✨ **Gracias por visitar mi perfil. ¡Cualquier estrella ⭐ o sugerencia es bienvenida!*
+✨ **Gracias por visitar mi perfil. ¡Cualquier estrella ⭐ o sugerencia es bienvenida!**
