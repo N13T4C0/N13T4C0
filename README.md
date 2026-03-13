@@ -34,8 +34,10 @@ Idiomas: Español (Nativo) e Inglés (Intermedio).
 ### 🛠️ Habilidades Técnicas
 
 **Lenguajes**:  
-`Java` `PHP` `JavaScript` `SQL`
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 **Web**:  
 `HTML` `CSS` `Bootstrap` `Sass` `AJAX`
 
