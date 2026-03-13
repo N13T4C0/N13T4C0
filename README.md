@@ -6,7 +6,7 @@
 <h2 align="center">Hola soy Nieto!</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Jos%C3%A9+Antonio+Nieto;T%C3%A9cnico+Inform%C3%A1tico;Desarrollador+Web+Junior" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Jos%C3%A9+Antonio+Nieto;T%C3%A9cnico+Inform%C3%A1tico;Desarrollador+Web+Junior" alt="Typing SVG" alt="Typing SVG" />
 </p>
 
 <p align="center">
