@@ -3,7 +3,7 @@
   <img src="https://media1.tenor.com/m/FI9CZRTgweMAAAAC/lain-lain-iwakura.gif" width="100%" height="200" alt="Banner animado" />
 </p>
 
-<h2 align="center">👋 Hola soy Nieto!</h2>
+<h2 align="center">Hola soy Nieto!</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Jos%C3%A9+Antonio+Nieto;T%C3%A9cnico+Inform%C3%A1tico;Desarrollador+Web+Junior" alt="Typing SVG" />
@@ -21,13 +21,13 @@
 
 ### 🎓 Sobre mí
 
-- Estudiante de **2º curso de Desarrollo de Aplicaciones Web (DAW)** en el IES Francisco Ayala.
-- Técnico en **Sistemas Microinformáticos y Redes (SMR)** con experiencia en soporte técnico y desarrollo web.
-- He realizado **prácticas en entornos reales**:  
-  🔹 **NOsoloPC** (2024): Soporte técnico, montaje de equipos, redes y sistemas (Windows/Linux).  
-  🔹 **Ayuntamiento de Íllora** (2025): Colaboración en desarrollo web (frontend + backend) y diseño de interfaces.
-- Apasionado por la tecnología, el aprendizaje continuo y resolver problemas reales con código.
-- 🌍 **Idiomas**: Español (nativo) | Inglés (intermedio)
+Estudiante de 2º de DAW (Desarrollo de Aplicaciones Web) y Técnico en SMR. Cuento con experiencia práctica tanto en soporte técnico de sistemas y redes como en el desarrollo de software (frontend y backend).
+
+Experiencia: Soporte técnico avanzado, montaje de equipos y redes (Windows/Linux) | Desarrollo Web Full-stack y diseño de interfaces en administración pública.
+
+Enfoque: Resolución de problemas reales mediante código y mejora continua.
+
+Idiomas: Español (Nativo) e Inglés (Intermedio).
 
 ---
 
