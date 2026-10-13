@@ -10,9 +10,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Granada,_España-0d1117?style=flat-square&logo=googlemaps&logoColor=00FF41" alt="Granada, España" />
-  <img src="https://img.shields.io/badge/2º_DAW_·_Técnico_SMR-0d1117?style=flat-square&logo=bookstack&logoColor=00FF41" alt="Formación" />
-  <img src="https://komarev.com/ghpvc/?username=N13T4C0&label=visitas&color=00FF41&style=flat-square" alt="Visitas al perfil" />
+  <img src="https://img.shields.io/badge/Granada%2C_Espa%C3%B1a-0d1117?style=flat-square&logo=googlemaps&logoColor=00FF41" alt="Granada, España" />
+  <img src="https://img.shields.io/badge/2%C2%BA_DAW_%C2%B7_T%C3%A9cnico_SMR-0d1117?style=flat-square&logo=bookstack&logoColor=00FF41" alt="Formación" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=N13T4C0&label=Visitas%20al%20perfil&color=00FF41&style=flat" alt="Visitas al perfil" />
 </p>
 
 ---
