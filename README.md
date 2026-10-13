@@ -9,80 +9,75 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Granada,_España-0d1117?style=flat-square&logo=googlemaps&logoColor=00FF41" alt="Granada, España" />
+  <img src="https://img.shields.io/badge/2º_DAW_·_Técnico_SMR-0d1117?style=flat-square&logo=bookstack&logoColor=00FF41" alt="Formación" />
   <img src="https://komarev.com/ghpvc/?username=N13T4C0&label=visitas&color=00FF41&style=flat-square" alt="Visitas al perfil" />
 </p>
 
-<p align="center">
-  <code>Granada, España</code> &nbsp;·&nbsp; <code>josenieto.alo@gmail.com</code>
-</p>
+---
+
+## Sobre mí
+
+Soy técnico informático y estoy terminando el ciclo de **Desarrollo de Aplicaciones Web**, después de sacarme el de **Sistemas Microinformáticos y Redes**. Me muevo entre los dos mundos: lo mismo monto y configuro un equipo que levanto una aplicación de principio a fin.
+
+- Experiencia en **soporte técnico**, montaje de equipos y redes en entornos Windows y Linux.
+- Desarrollo **full-stack** y diseño de interfaces para la **administración pública**.
+- Me gusta resolver problemas reales con código y mejorar un poco cada día.
+- Hablo **español** (nativo) e **inglés** (nivel intermedio).
 
 ---
 
-### ~/sobre-mi
+## Tecnologías
 
-```bash
-nieto@granada:~$ whoami
-José Antonio Nieto — técnico informático y desarrollador web junior
+<table>
+  <tr>
+    <td><b>Lenguajes</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Bases de datos</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-00000f?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Sistemas y herramientas</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+    </td>
+  </tr>
+</table>
 
-nieto@granada:~$ cat sobre_mi.txt
-> Estudiante de 2º de DAW, con el título de Técnico en SMR.
-> He trabajado en soporte técnico, montaje de equipos y redes (Windows / Linux).
-> Desarrollo full-stack y diseño de interfaces para la administración pública.
-> Me gusta resolver problemas reales con código y mejorar un poco cada día.
-
-nieto@granada:~$ cat idiomas.txt
-> Español ........ nativo
-> Inglés ......... intermedio
-
-nieto@granada:~$ _
-```
-
----
-
-### ~/stack
-
-**Lenguajes**
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-**Backend y bases de datos**
-
-![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**Sistemas, redes y herramientas**
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Soft skills:** trabajo en equipo · resolución de problemas · aprendizaje rápido · comunicación · organización · adaptabilidad
 
 ---
 
-### ~/soft-skills
-
-`Trabajo en equipo` · `Resolución de problemas` · `Aprendizaje rápido` · `Comunicación efectiva` · `Organización` · `Adaptabilidad`
-
----
-
-### ~/estadisticas
+## Estadísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=N13T4C0&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41" alt="Estadísticas" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N13T4C0&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" alt="Lenguajes más usados" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=N13T4C0&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41&locale=es" alt="Estadísticas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N13T4C0&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&locale=es" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
@@ -91,7 +86,7 @@ nieto@granada:~$ _
 
 ---
 
-### ~/contribuciones
+## Contribuciones
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="Contribuciones en 3D" />
@@ -103,7 +98,7 @@ nieto@granada:~$ _
 
 ---
 
-### ~/contacto
+## Contacto
 
 <p align="center">
   <a href="mailto:josenieto.alo@gmail.com">
@@ -115,5 +110,5 @@ nieto@granada:~$ _
 </p>
 
 <p align="center">
-  <code>"Resolver problemas reales mediante código y mejora continua."</code>
+  <i>Resolver problemas reales mediante código y mejora continua.</i>
 </p>
