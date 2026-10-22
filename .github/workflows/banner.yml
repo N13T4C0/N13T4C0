@@ -33,8 +33,8 @@ jobs:
 
       - name: Commit si ha cambiado
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name  "Nieto"
+          git config user.email "98485156+N13T4C0@users.noreply.github.com"
           git add assets/banner-*.svg
           git diff --staged --quiet || git commit -m "chore: regenerar banner"
           git push
