@@ -1,11 +1,7 @@
 <div align="center">
 
 <!-- Banner animado generado por banner/generate.py (se regenera solo al editar banner/config.json) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-dark.svg" width="100%" alt="whoami --verbose · José Antonio Nieto, Desarrollador Web Junior">
-</picture>
+<img src="assets/banner-dark.svg" width="100%" alt="whoami --verbose · José Antonio Nieto, Desarrollador Web Junior">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Desarrollador+Web+Junior;Full-Stack+%26+Sistemas+y+Redes;Aprendiendo+Machine+Learning" alt="Typing SVG" />
 
