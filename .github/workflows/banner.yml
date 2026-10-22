@@ -1,0 +1,40 @@
+name: Banner
+
+# Regenera assets/banner-*.svg cuando cambian los datos, las imágenes o el script.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "banner/**"
+      - ".github/workflows/banner.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  banner:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: banner/requirements.txt
+
+      - name: Generar banner
+        working-directory: banner
+        run: |
+          pip install -r requirements.txt
+          python generate.py
+
+      - name: Commit si ha cambiado
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/banner-*.svg
+          git diff --staged --quiet || git commit -m "chore: regenerar banner"
+          git push

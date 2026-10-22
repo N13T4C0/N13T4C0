@@ -1,22 +1,17 @@
-<p align="center">
-  <!-- Banner animado (Lain) -->
-  <img src="https://media1.tenor.com/m/FI9CZRTgweMAAAAC/lain-lain-iwakura.gif" width="100%" height="200" alt="Banner animado" />
-</p>
+<div align="center">
 
-<h1 align="center">Hola, soy Nieto</h1>
+<!-- Banner animado generado por banner/generate.py (se regenera solo al editar banner/config.json) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-dark.svg" width="100%" alt="whoami --verbose · José Antonio Nieto, Desarrollador Web Junior">
+</picture>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Jos%C3%A9+Antonio+Nieto;T%C3%A9cnico+Inform%C3%A1tico;Desarrollador+Web+Junior;Full-Stack+%26+Sistemas+y+Redes" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Desarrollador+Web+Junior;Full-Stack+%26+Sistemas+y+Redes;Aprendiendo+Machine+Learning" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Granada%2C_Espa%C3%B1a-0d1117?style=flat-square&logo=googlemaps&logoColor=00FF41" alt="Granada, España" />
-  <img src="https://img.shields.io/badge/2%C2%BA_DAW_%C2%B7_T%C3%A9cnico_SMR-0d1117?style=flat-square&logo=bookstack&logoColor=00FF41" alt="Formación" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=N13T4C0&label=Visitas%20al%20perfil&color=00FF41&style=flat" alt="Visitas al perfil" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=N13T4C0&label=Visitas%20al%20perfil&color=00FF41&style=flat" alt="Visitas al perfil" />
-</p>
+</div>
 
 ---
 
@@ -27,7 +22,6 @@ Soy técnico informático y estoy terminando el ciclo de **Desarrollo de Aplicac
 - Experiencia en **soporte técnico**, montaje de equipos y redes en entornos Windows y Linux.
 - Desarrollo **full-stack** y diseño de interfaces para la **administración pública**.
 - Me gusta resolver problemas reales con código y mejorar un poco cada día.
-- Hablo **español** (nativo) e **inglés** (nivel intermedio).
 
 ---
 
@@ -65,60 +59,11 @@ Soy técnico informático y estoy terminando el ciclo de **Desarrollo de Aplicac
 
 ---
 
-## Tecnologías
+## Stack
 
-<table>
-  <tr>
-    <td><b>Lenguajes</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-      <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Bases de datos</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-00000f?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Sistemas y herramientas</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-      <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,java,python,html,css,sass,bootstrap,react,nextjs,angular,vue,tailwind,nodejs,express,fastapi,mysql,linux,windows,git,github,vscode&perline=12&theme=dark" alt="Tecnologías" />
+</p>
 
 **Soft skills:** trabajo en equipo · resolución de problemas · aprendizaje rápido · comunicación · organización · adaptabilidad
 
