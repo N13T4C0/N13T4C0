@@ -25,6 +25,27 @@ Soy técnico informático y estoy terminando el ciclo de **Desarrollo de Aplicac
 
 <table>
   <tr>
+    <td width="45%" valign="top">
+      <a href="https://oliveye.vercel.app"><img src="https://raw.githubusercontent.com/N13T4C0/oliveye/main/docs/media/hero-light.png" alt="OlivEye: cosecha de aceite y mapa del olivar de Jaén y Granada" width="100%"></a>
+    </td>
+    <td valign="top">
+      <h3><a href="https://github.com/N13T4C0/oliveye">OlivEye</a> · el olivar de Jaén y Granada visto desde el satélite</h3>
+      <p>Imágenes de Sentinel-2 sobre el olivar de 86 municipios, mes a mes desde 2016, para estimar la cosecha de aceite y compararla con el aforo oficial de la Junta. La respuesta honesta: con 9 campañas, el satélite todavía no gana al aforo (44 % frente a 12 % de error), y la web lo cuenta tal cual.</p>
+      <p>ETL con openEO y PySpark, PostGIS, modelo validado dejando cada campaña fuera, API con FastAPI y web con Next.js + MapLibre, con vista para agricultores (litros, kg/ha y euros) y modo técnico.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
+      <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Copernicus-Sentinel--2-054d28?style=flat-square" alt="Copernicus Sentinel-2" />
+      <p><a href="https://oliveye.vercel.app">Demo</a> · <a href="https://github.com/N13T4C0/oliveye">Código</a> · <a href="https://oliveye-api.vercel.app/docs">API</a></p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/N13T4C0/AniHub">AniHub</a></h3>
       <p>Portal para descubrir y seguir anime, manga y manhwa con datos de AniList, listas personales, foro y calendario de temporada.</p>
@@ -58,7 +79,7 @@ Soy técnico informático y estoy terminando el ciclo de **Desarrollo de Aplicac
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,java,python,html,css,sass,bootstrap,react,nextjs,angular,vue,tailwind,nodejs,express,fastapi,mysql,linux,windows,git,github,vscode&perline=12&theme=dark" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,java,python,html,css,sass,bootstrap,react,nextjs,angular,vue,tailwind,nodejs,express,fastapi,mysql,postgres,docker,githubactions,vercel,linux,windows,git,github,vscode&perline=12&theme=dark" alt="Tecnologías" />
 </p>
 
 **Soft skills:** trabajo en equipo · resolución de problemas · aprendizaje rápido · comunicación · organización · adaptabilidad
