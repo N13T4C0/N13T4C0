@@ -89,8 +89,9 @@ Soy técnico informático y estoy terminando el ciclo de **Desarrollo de Aplicac
 ## Actividad en GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=N13T4C0&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41&locale=es" alt="Estadísticas" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N13T4C0&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&locale=es" alt="Lenguajes más usados" />
+  <!-- Tarjetas generadas por stats/generate.py (workflow snake.yml, rama output) -->
+  <img height="165" src="https://raw.githubusercontent.com/N13T4C0/N13T4C0/output/stats.svg" alt="Estadísticas" />
+  <img height="165" src="https://raw.githubusercontent.com/N13T4C0/N13T4C0/output/top-langs.svg" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
