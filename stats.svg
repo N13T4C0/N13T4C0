@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195" role="img" aria-label="Estadísticas de Nieto">
+  <title>Estadísticas de Nieto</title>
+  <style>
+    .t { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #00FF41; }
+    .l { font: 600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #c9d1d9; }
+    .v { font: 700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #c9d1d9; }
+    .s { font: 400 11px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #8b949e; }
+    .big { font: 800 26px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #00FF41; }
+    .in { opacity: 0; animation: in .5s ease-out forwards; }
+    @keyframes in { to { opacity: 1; } }
+    @keyframes ring { from { stroke-dashoffset: 251.3; } }
+  </style>
+  <rect width="467" height="195" rx="6" fill="#0d1117"/>
+  <text x="25" y="35" class="t">Estadísticas de Nieto</text>
+  <g class="in" style="animation-delay:150ms"><circle cx="31" cy="65" r="4" fill="#00FF41"/><text x="45" y="70" class="l">Estrellas:</text><text x="200" y="70" class="v">1</text></g>
+  <g class="in" style="animation-delay:270ms"><circle cx="31" cy="90" r="4" fill="#00FF41"/><text x="45" y="95" class="l">Commits:</text><text x="200" y="95" class="v">290</text></g>
+  <g class="in" style="animation-delay:390ms"><circle cx="31" cy="115" r="4" fill="#00FF41"/><text x="45" y="120" class="l">Repositorios:</text><text x="200" y="120" class="v">13</text></g>
+  <g class="in" style="animation-delay:510ms"><circle cx="31" cy="140" r="4" fill="#00FF41"/><text x="45" y="145" class="l">Lenguajes:</text><text x="200" y="145" class="v">11</text></g>
+  <g class="in" style="animation-delay:630ms"><circle cx="31" cy="165" r="4" fill="#00FF41"/><text x="45" y="170" class="l">Seguidores:</text><text x="200" y="170" class="v">4</text></g>
+  <g transform="translate(372 100)">
+    <circle r="40" fill="none" stroke="#1b2a1f" stroke-width="6"/>
+    <circle r="40" fill="none" stroke="#00FF41" stroke-width="6" stroke-linecap="round"
+      stroke-dasharray="251.3" stroke-dashoffset="8.4" transform="rotate(-90)"
+      style="animation: ring 1s ease-out"/>
+    <text y="6" text-anchor="middle" class="big">290</text>
+    <text y="62" text-anchor="middle" class="s">commits</text>
+  </g>
+</svg>
