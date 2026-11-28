@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="189" viewBox="0 0 300 189" role="img" aria-label="Lenguajes más usados">
+  <title>Lenguajes más usados</title>
+  <style>
+    .t { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #00FF41; }
+    .l { font: 600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #c9d1d9; }
+    .v { font: 700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #c9d1d9; }
+    .s { font: 400 11px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #8b949e; }
+    .big { font: 800 26px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #00FF41; }
+    .in { opacity: 0; animation: in .5s ease-out forwards; }
+    @keyframes in { to { opacity: 1; } }
+    @keyframes ring { from { stroke-dashoffset: 251.3; } }
+  </style>
+  <rect width="300" height="189" rx="6" fill="#0d1117"/>
+  <text x="25" y="35" class="t">Lenguajes más usados</text>
+  <clipPath id="bar"><rect x="25" y="55" width="250" height="8" rx="4"/></clipPath>
+  <g clip-path="url(#bar)">
+    <rect x="25.00" y="55" width="77.93" height="8" fill="#f1e05a"/>
+    <rect x="102.43" y="55" width="70.04" height="8" fill="#3178c6"/>
+    <rect x="171.97" y="55" width="51.57" height="8" fill="#3572A5"/>
+    <rect x="223.04" y="55" width="22.99" height="8" fill="#663399"/>
+    <rect x="245.52" y="55" width="17.03" height="8" fill="#41b883"/>
+    <rect x="262.05" y="55" width="13.45" height="8" fill="#e34c26"/>
+  </g>
+  <g class="in" style="animation-delay:150ms"><circle cx="30" cy="88" r="5" fill="#f1e05a"/><text x="41" y="92" class="l" style="font-size:12px">JavaScript</text><text x="41" y="105" class="s">31.0%</text></g>
+  <g class="in" style="animation-delay:250ms"><circle cx="165" cy="88" r="5" fill="#3178c6"/><text x="176" y="92" class="l" style="font-size:12px">TypeScript</text><text x="176" y="105" class="s">27.8%</text></g>
+  <g class="in" style="animation-delay:350ms"><circle cx="30" cy="122" r="5" fill="#3572A5"/><text x="41" y="126" class="l" style="font-size:12px">Python</text><text x="41" y="139" class="s">20.4%</text></g>
+  <g class="in" style="animation-delay:450ms"><circle cx="165" cy="122" r="5" fill="#663399"/><text x="176" y="126" class="l" style="font-size:12px">CSS</text><text x="176" y="139" class="s">9.0%</text></g>
+  <g class="in" style="animation-delay:550ms"><circle cx="30" cy="156" r="5" fill="#41b883"/><text x="41" y="160" class="l" style="font-size:12px">Vue</text><text x="41" y="173" class="s">6.6%</text></g>
+  <g class="in" style="animation-delay:650ms"><circle cx="165" cy="156" r="5" fill="#e34c26"/><text x="176" y="160" class="l" style="font-size:12px">HTML</text><text x="176" y="173" class="s">5.2%</text></g>
+</svg>
